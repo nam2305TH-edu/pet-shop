@@ -1,0 +1,18 @@
+[
+  {
+    "keywords": ["vnpay", "thanh toan online", "online payment", "qr"],
+    "reply": "💳 Bạn có thể thanh toán trực tuyến qua VNPAY với mã QR an toàn và nhanh chóng."
+  },
+  {
+    "keywords": ["ship nhanh", "giao nhanh", "hoa toc", "express"],
+    "reply": "⚡ Dịch vụ giao nhanh: nội thành 2-6 giờ, ngoại thành 24h." 
+  },
+  {
+    "keywords": ["bao hanh", "bảo hành", "warranty"],
+    "reply": "🛡️ Chính sách bảo hành tiêu chuẩn 12 tháng cho phần lớn sản phẩm."
+  },
+  {
+    "keywords": ["doi tra", "đổi trả", "refund", "return"],
+    "reply": "↩️ Đổi trả trong 7 ngày nếu sản phẩm lỗi do nhà sản xuất."
+  }
+]

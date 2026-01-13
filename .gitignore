@@ -1,0 +1,18 @@
+# Python
+__php__/
+
+
+\
+*.sql
+
+# Whisper temp audio
+temp_audio/
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# Logs
+*.log

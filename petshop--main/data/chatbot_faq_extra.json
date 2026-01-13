@@ -1,0 +1,18 @@
+[
+  {
+    "keywords": ["giao hang quoc te", "international shipping"],
+    "reply": "🌍 Hiện tại chúng tôi chưa hỗ trợ giao hàng quốc tế, chỉ nội địa."
+  },
+  {
+    "keywords": ["bao mat", "security", "private"],
+    "reply": "🔐 Dữ liệu của bạn được bảo vệ theo tiêu chuẩn tốt nhất."
+  },
+  {
+    "keywords": ["khung gio", "gio lam viec", "business hours"],
+    "reply": "⏰ Khung giờ hỗ trợ: 8:00 - 22:00 mỗi ngày, kể cả cuối tuần."
+  },
+  {
+    "regex": ["/(?:phi|gia)\s+ship/i"],
+    "reply": "🚚 Phí ship phụ thuộc khoảng cách và phương thức giao, bạn có thể xem trong mục phí vận chuyển." 
+  }
+]
